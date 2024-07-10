@@ -1,16 +1,19 @@
-## Hi there 👋
+<img width=100% bottom=50px src="https://github.com/Tecnoplanta-TI/Tecnoplanta-TI/assets/175246421/d4d54a85-c8da-4c27-9809-b4da741860b5"/>
+<br>
 
-<!--
-**Tecnoplanta-TI/Tecnoplanta-TI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=50&pause=20&color=1A9245&center=true&vCenter=true&repeat=verdadeiro&random=falso&width=1280&height=200&lines=Bem+vindos+ao+nosso+GitHub!;Somos+uma+empresa+do+ramo+florestal;com+mais+de+32+anos+no+mercado+de;produ%C3%A7%C3%A3o+de+mudas.)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<br>
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Tecnoplanta-TI's Stats](https://github-readme-stats.vercel.app/api?username=Tecnoplanta-TI&theme=merko&show_icons=true&hide_border=true&count_private=true)
+  <br>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tecnoplanta-TI&theme=merko&hide_border=falso&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  
+</div>
+<br>
+<div align="center">
+
+  ![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/Tecnoplanta-TI?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=30&theme=green)
+  
+</div>
