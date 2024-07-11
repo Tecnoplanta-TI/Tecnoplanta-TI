@@ -1,7 +1,7 @@
 <img width=100% bottom=50px src="https://github.com/Tecnoplanta-TI/Tecnoplanta-TI/assets/175246421/d4d54a85-c8da-4c27-9809-b4da741860b5"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=1A9245&center=true&vCenter=true&repeat=verdadeiro&random=falso&width=1200&height=200&lines=Bem+vindos+ao+nosso+GitHub!;Somos+uma+empresa+do+ramo+florestal;especializados+na+produ%C3%A7%C3%A3o+de+mudas;de+Eucalipto%2C+Pinus%2C+Oliveira+e+Azeite.;fiquem+a+vontade!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=1A9245&center=true&vCenter=true&repeat=true&random=false&width=1200&height=200&lines=Bem+vindos+ao+nosso+GitHub!;Somos+uma+empresa+do+ramo+florestal;especializados+na+produ%C3%A7%C3%A3o+de+mudas;de+Eucalipto%2C+Pinus%2C+Oliveira+e+Azeite.;fiquem+a+vontade!)](https://git.io/typing-svg)
 
 <br>
 <div align="center">
